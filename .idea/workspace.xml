@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2271f2fa-9849-413a-873b-2c123759686f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Izmir Air Quality.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.streamlit/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izmir_air_quality_dataframe/col_names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/izmir_air_quality_dataframe/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot/izmir_air_quality_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot/izmir_air_quality_map_box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_res/string_keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_res/string_res.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utlity.py" afterDir="false" />
-    </list>
+    <list default="true" id="2271f2fa-9849-413a-873b-2c123759686f" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725368422021</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1726167923673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726167923673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
